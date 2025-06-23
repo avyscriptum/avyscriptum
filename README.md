@@ -41,16 +41,8 @@ Let me know if you're interested or want to collaborate!
 - E-books: EPUB, FB2
 - Tools: Obsidian, Sigil, calibre, Git
 
-
-### 📢 My Telegram Channels
-- [Mansi.exe](https://t.me/mansiexe) — mansi culture, language and memes
-- [KodLibro](https://t.me/kodlibro) — Esperanto and fun content
-- [Beer Essence](https://t.me/beeressence) — IT, languages, life & projects
-- [Avysstekton](https://t.me/avysstekton) — sci-fi universe and lore
-- [Avysmorfias](https://t.me/avysmorfias) — creative works: photo, sound, ceramics
-
 ### 📌 Featured Repositories
-- [mansi-memes](https://github.com/avysmorfias/mansi-memes) — memes in Mansi
+- [mansi-memes](https://github.com/avyscriptum/mansi-memes) — memes in Mansi
 
 ---
 
