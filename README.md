@@ -7,7 +7,7 @@
 
 ### 😎 More About Me:
 - 🎓 Currently learning: C#, databases, markup languages (HTML, XAML, XML)
-- 🏆 2025 Goals: BECOME BETTER
+- 🏆 2026 Goals: BECOME BETTER
 - 🍻 Fun fact: I say I love beer, but I've never actually drunk it!
 - 🔗 Connect with me: beeressence@gmail.com (email never dies!)
 
