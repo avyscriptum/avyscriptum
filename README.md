@@ -1,13 +1,13 @@
 <div align="center">
   <img src="images/hackerman.gif" alt="hackerman">
 </div>
-<h1 align="center">👋Hello! Saluton! Привет! Паща о̄лэн!</h1>
+<h1 align="center">👋 Hello! Saluton! Привет! Паща о̄лэн!</h1>
 
 <h3 align="center">I'm learning C#, love languages ​​and beer!</h3>
 
 ---
 
-### Who am I and why?
+### 🍻 Who am I and why?
 I’m a Mansi enthusiast, language learner, and beginner developer.  
 I’m focused on minority languages, creative tools, and experimental recording.
 
